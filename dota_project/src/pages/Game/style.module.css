@@ -1,0 +1,29 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #2c2c2c;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.title {
+    font-size: 2em;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.description {
+    background-color: #444;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+    line-height: 1.6;
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #007acc;
+}

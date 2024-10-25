@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    align-items: center;
+  }
+  
+  .container a {
+    text-decoration: none; 
+    color: inherit; 
+  }
+  
+  .container a:hover {
+    color: rgb(255, 255, 255); 
+  }
+  
+
+  .activeLink {
+    border-bottom: 3px solid rgb(231, 38, 38); 
+    color: rgb(255, 255, 255); 
+  }
+  
+  
